@@ -1,2 +1,2 @@
 # buja
-Bulletproof Java CMS
+Bulletproof Java CMS based on Struts
